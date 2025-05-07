@@ -1,0 +1,17 @@
+h1 {
+  text-decoration: underline;
+  background-color: crimson;
+  text-decoration-color: white;
+}
+
+p {
+  text-decoration: underline;
+  background-color: crimson;
+  text-decoration: white;
+}
+
+body {
+  text-decoration: underline;
+  background-color: crimson;
+  text-decoration: white;
+}
